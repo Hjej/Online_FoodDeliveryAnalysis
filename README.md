@@ -15,3 +15,11 @@ The project analyzes revenue trends, customer behavior, delivery performance, ca
 
 ![Operational Analysis](Images/Operational_Analysis1.png)
 ![Operational Analysis](Images/Operational_Analysis2.png)
+
+##Delivery Performance
+
+ -Average delivery time by city
+- Distance vs delivery delay analysis
+- Delivery rating vs delivery time
+- Cancellation reason analysis
+
