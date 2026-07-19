@@ -23,3 +23,7 @@ The project analyzes revenue trends, customer behavior, delivery performance, ca
 - Delivery rating vs delivery time
 - Cancellation reason analysis
 
+## Contact
+
+[LinkedIn Profile](https://www.linkedin.com/in/indiralatha-venkatesh/)
+
